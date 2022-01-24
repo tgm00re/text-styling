@@ -1,0 +1,24 @@
+h1{
+    background-color: black;
+}
+
+h2{
+    background-color: rebeccapurple;
+    font-style:italic;
+    text-align: center;
+}
+
+h3{
+    background-color: lightblue;
+    text-decoration: underline;
+    text-align: right;
+}
+
+.white{
+    color: white;
+}
+
+.skyblue{
+    color: skyblue;
+}
+
